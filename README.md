@@ -55,16 +55,15 @@ Original Math Scores by Grade:
 
 Original Reading Scores by Grade: 
 
-![reading average by grade](https://user-images.githubusercontent.com/86159728/135669297-99b32f42-ee60-478a-8068-9cbc1941dea6.jpg)
+![reading scores by grade](https://user-images.githubusercontent.com/86159728/135692944-a5e189f0-1a4a-4c80-8e04-fc6de011b8c1.jpg)
 
 Updated Math Scores by Grade:
 
 ![updated math average by grade](https://user-images.githubusercontent.com/86159728/135669250-e3cd131a-530e-429e-b39a-ab211b9ec0eb.jpg)
 
-
 Updated Reading Scores by Grade: 
 
-![updated reading average by grade](https://user-images.githubusercontent.com/86159728/135669355-477c0de3-a0de-4509-85c2-7e571c89d182.jpg)
+![updated reading scores by grade](https://user-images.githubusercontent.com/86159728/135692971-19b0abb8-3823-4698-aed2-d2cee56b8cdd.jpg)
 
 How are scores by school spending affected?
 
