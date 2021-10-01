@@ -2,7 +2,7 @@
 
 Overview of the Analysis
 
-Purpose: The purpose of this analysis is to assist school board superintendents in making school and district level decisions regarding school's budgets and priorities. I will assist Maria, the Chief Data Scientist for a City School District, in aggregating and analyzing data on student funding and student's standardized test scores as well as showcasing trends on school performance. 
+Purpose: The purpose of this analysis is to assist school board superintendents in making school and district level decisions about school's budgets and priorities. I will assist Maria, the Chief Data Scientist for a City School District, in aggregating and analyzing data on student funding and student's standardized test scores as well as showcasing trends on school performance. 
 
 During this analysis, Maria asked me to replace the ninth graders' math and reading scores for Thomas High School with NaNs (an undefined number) due to evidence of academic dishonesty. 
 
