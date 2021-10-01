@@ -61,6 +61,8 @@ Updated Math Scores by Grade:
 
 ![updated math score by grade](https://user-images.githubusercontent.com/86159728/135695926-fbc28219-11ec-42ec-8421-58288ac8c874.jpg)
 
+Updated Reading Scores by Grade:
+
 ![updated reading scores by grade](https://user-images.githubusercontent.com/86159728/135692971-19b0abb8-3823-4698-aed2-d2cee56b8cdd.jpg)
 
 How are scores by school spending affected?
