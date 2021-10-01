@@ -16,11 +16,15 @@ Task Deliverables: The goal of this analysis is to report a School District Anal
 
 This analysis will examine how replacing the ninth graders' math and reading scores affected the School District Analysis.
 
-Results: IMAGE OF DATA FRAME
+Results: 
 
 How is the district summary affected?
-Original District Summary: ![image](https://user-images.githubusercontent.com/86159728/135667171-52003d2a-9950-451d-9a9a-99694261082a.png)
-Updated district summary: ![updated district summary](https://user-images.githubusercontent.com/86159728/135667239-d55ed043-8254-49a4-a586-ac705157184d.jpg)
+
+Original District Summary: 
+![image](https://user-images.githubusercontent.com/86159728/135667171-52003d2a-9950-451d-9a9a-99694261082a.png)
+
+Updated district summary: 
+![updated district summary](https://user-images.githubusercontent.com/86159728/135667239-d55ed043-8254-49a4-a586-ac705157184d.jpg)
 
 
 How is the school summary affected?
