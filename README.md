@@ -14,7 +14,7 @@ Task Deliverables: The goal of this analysis is to report a School District Anal
 - the average reading score for each grade level from each school
 - the scores by school spending per student, by school size, and by school type. 
 
-Also, this analysis will examine how replacing the ninth graders' math and reading scores affected the School District Analysis.
+This analysis will examine how replacing the ninth graders' math and reading scores affected the School District Analysis.
 
 Results: IMAGE OF DATA FRAME
 
