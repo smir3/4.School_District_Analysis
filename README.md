@@ -21,6 +21,7 @@ Results:
 How is the district summary affected?
 
 Original District Summary: 
+
 ![district summary](https://user-images.githubusercontent.com/86159728/135667403-c526e115-18dd-4da4-8825-9e2f5accb3a5.jpg)
 
 Updated district summary: 
