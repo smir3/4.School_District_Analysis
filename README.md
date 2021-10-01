@@ -35,7 +35,7 @@ Original School Summary:
 
 Updated  School Summary:
 
-![updated school summary](https://user-images.githubusercontent.com/86159728/135668437-5b584514-05db-49c7-ae91-dab005870ac2.jpg)
+![updated summary by school](https://user-images.githubusercontent.com/86159728/135696499-22d70df2-0505-43e1-96b4-dedfaf035fb4.jpg)
 
 How are the top 5 and bottom 5 schools affected?
 
