@@ -59,9 +59,7 @@ Original Reading Scores by Grade:
 
 Updated Math Scores by Grade:
 
-![updated math average by grade](https://user-images.githubusercontent.com/86159728/135669250-e3cd131a-530e-429e-b39a-ab211b9ec0eb.jpg)
-
-Updated Reading Scores by Grade: 
+![updated math score by grade](https://user-images.githubusercontent.com/86159728/135695926-fbc28219-11ec-42ec-8421-58288ac8c874.jpg)
 
 ![updated reading scores by grade](https://user-images.githubusercontent.com/86159728/135692971-19b0abb8-3823-4698-aed2-d2cee56b8cdd.jpg)
 
