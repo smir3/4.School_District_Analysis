@@ -6,7 +6,9 @@ Purpose: The purpose of this analysis is to assist school board superintendents 
 
 During this analysis, Maria asked me to replace the ninth graders' math and reading scores for Thomas High School with NaNs (an undefined number) due to evidence of academic dishonesty. 
 
-Task Deliverables: The goal of this analysis is to report a School District Analysis which includes:
+Task Deliverables: The goal of this analysis is to examine how replacing the ninth graders' math and reading scores affected the School District Analysis.
+
+The School District Analysis includes:
 - a district summary
 - a school summary
 - the top 5 and bottom 5 performing schools
@@ -14,7 +16,6 @@ Task Deliverables: The goal of this analysis is to report a School District Anal
 - the average reading score for each grade level from each school
 - the scores by school spending per student, by school size, and by school type. 
 
-This analysis will examine how replacing the ninth graders' math and reading scores affected the School District Analysis.
 
 Results: 
 
@@ -53,8 +54,8 @@ Updated Top 5 and Bottom 5 Schools:
 
 ![updated top and bottom schools](https://user-images.githubusercontent.com/86159728/135668787-c15cfc6e-59d7-4403-a15d-5b450b36e53d.jpg)
 
-- Top 5 and bottom 5 schools are in the smae order
-- Although the average scores and percent passing values changed for Thomas High School, it still ranked second position in the top 5.
+- Top 5 and bottom 5 schools are in the same order
+- Although the average scores and % passing values changed for Thomas High School, it is still ranked at second position in the top 5.
 
 How are math and reading scores by grade affected?
 
@@ -74,11 +75,11 @@ Updated Reading Scores by Grade:
 
 ![updated reading scores by grade](https://user-images.githubusercontent.com/86159728/135692971-19b0abb8-3823-4698-aed2-d2cee56b8cdd.jpg)
 
-- For all schools, except Thomas High School, the average math and reading scores are the same for all grades for all schools
+- For all schools, except Thomas High School, the average math and reading scores are the same for all grades
 - The average math and reading scores remained the same for 10th, 11th, and 12th graders in Thomas High School.
-- The 9th grade averages were replaced by NaN values.
+- The 9th grade averages were replaced by NaN values for Thomas High School.
 
-How are scores by school spending affected?
+How are scores by school spending, school size, and school type affected?
 
 Original Scores by School Spending:
 
@@ -88,8 +89,6 @@ Updated Scores by School Spending:
 
 ![updated scores by spending](https://user-images.githubusercontent.com/86159728/135669500-d548aa20-1d76-4324-af15-1e86195ff41d.jpg)
 
-How are scores by school size affected?
-
 Original Scores by School Size:
 
 ![scores by school size](https://user-images.githubusercontent.com/86159728/135669629-6e64576e-b3a0-4be7-9615-4271b0fda9ac.jpg)
@@ -97,8 +96,6 @@ Original Scores by School Size:
 Updated Scores by School Size:
 
 ![updated scores by school size](https://user-images.githubusercontent.com/86159728/135669650-ddd42c50-9684-465e-a0b7-def289e2ebed.jpg)
-
-How are scores by school type affected?
 
 Original Scores by School Type:
 
@@ -114,8 +111,8 @@ Updated Scores by School Type:
 - The trend for average scores by school type is that the charter schools have higher scores than district schools
 
 Summary of the main changes between the updated and the original School District Analysis: 
-1) The average math score for the district and Thomas High School summary is lower
-2) The % passing math for the district and Thomas High School summary is lower 
-3) The % passing reading for the district and Thomas High School summary is lower
-4) The % overall passing for the district and Thomas High School summary is lower
+1) The average math score for Thomas High School and the district summary is lower
+2) The % passing math for Thomas High School and the district summary is lower
+3) The % passing reading for Thomas High School and the district summary is lower
+4) The % overall passing for Thomas High School and the district summary is lower
 5) Thomas High School Grade 9 scores were replaced with NaN.
